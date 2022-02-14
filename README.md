@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Angular 11 and C#
+- 🌱 I’m currently learning Angular and C#
 - 📫 How to reach me: galileu.veloso@hotmail.com
